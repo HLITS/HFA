@@ -1,0 +1,4122 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Also known as Title",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Also known as Title using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Country",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Country using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "B/W-Color",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column B/W-Color using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Collection Title",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Collection Title using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Aspect Ratio",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Aspect Ratio using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Alternate Title",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Alternate Title using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Edition statement",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Edition statement using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "DP/Cinematographer",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column DP/Cinematographer using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director 2",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director 2 using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Date of record creation",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date of record creation using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Footage Length",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Footage Length using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Element",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Element using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Editor",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Editor using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Genre",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Genre using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Format type",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Format type using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "HFA Format(s)",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column HFA Format(s) using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "HFA Time",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column HFA Time using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Hollis Record?",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Hollis Record? using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Item number",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Item number using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Language",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Language using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "prefix",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column prefix using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Original Titles",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Original Titles using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Needs new HOLLIS update",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Needs new HOLLIS update using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Music",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Music using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "LOC Authority Subject Headings",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column LOC Authority Subject Headings using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record - not for HOLLIS export",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record - not for HOLLIS export using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record  not for HOLLIS export",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record  not for HOLLIS export using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record  for HOLLIS export",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record  for HOLLIS export using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Principal Cast",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Principal Cast using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "preliminary Aleph record",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column preliminary Aleph record using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Script",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Script using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Running Time {Length}",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Running Time {Length} using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Reels",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Reels using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Production Company",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Production Company using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Producer",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Producer using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Subtitles",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Subtitles using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Year of Release",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Year of Release using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Synopsis",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Synopsis using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sound Aspect(s)",
+    "expression": "grel:replace(value,\"\u001d\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sound Aspect(s) using expression grel:replace(value,\"\u001d\",\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "prefix",
+    "expression": "grel:\"0\"+length(value+1))",
+    "onError": "set-to-blank",
+    "newColumnName": "Filing indicators",
+    "columnInsertIndex": 26,
+    "description": "Create column Filing indicators at index 26 based on column prefix using expression grel:\"0\"+length(value+1))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Filing indicators",
+    "expression": "grel:if(isBlank(value),\"00\",value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Filing indicators using expression grel:if(isBlank(value),\"00\",value)"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "prefix",
+    "expression": "grel:if(isNonBlank(cells[\"prefix\"].value),cells[\"prefix\"].value+\" \"+cells[\"Original Titles\"].value,cells[\"Original Titles\"].value)",
+    "onError": "set-to-blank",
+    "newColumnName": "245 title with prefix",
+    "columnInsertIndex": 26,
+    "description": "Create column 245 title with prefix at index 26 based on column prefix using expression grel:if(isNonBlank(cells[\"prefix\"].value),cells[\"prefix\"].value+\" \"+cells[\"Original Titles\"].value,cells[\"Original Titles\"].value)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Aspect Ratio",
+    "expression": "grel:if(isNonBlank(value), \"Aspect ratio: \"+value+\".\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Aspect Ratio using expression grel:if(isNonBlank(value), \"Aspect ratio: \"+value+\".\", \"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "DP/Cinematographer",
+    "expression": "grel:if(isNonBlank(value), \"Director of photography: \"+value+\".\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column DP/Cinematographer using expression grel:if(isNonBlank(value), \"Director of photography: \"+value+\".\", \"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Editor",
+    "expression": "grel:if(isNonBlank(value), \"Editor: \"+value+\".\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Editor using expression grel:if(isNonBlank(value), \"Editor: \"+value+\".\", \"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Element",
+    "expression": "grel:if(isNonBlank(value), \"Generation: \"+value+\".\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Element using expression grel:if(isNonBlank(value), \"Generation: \"+value+\".\", \"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Music",
+    "expression": "grel:if(isNonBlank(value), \"Music score: \"+value+\".\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Music using expression grel:if(isNonBlank(value), \"Music score: \"+value+\".\", \"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Producer",
+    "expression": "grel:if(isNonBlank(value), \"Producer: \"+value+\".\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Producer using expression grel:if(isNonBlank(value), \"Producer: \"+value+\".\", \"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Script",
+    "expression": "grel:if(isNonBlank(value), \"Screenwriter: \"+value+\".\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Script using expression grel:if(isNonBlank(value), \"Screenwriter: \"+value+\".\", \"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Subtitles",
+    "expression": "grel:if(isNonBlank(value), \"Sutitles: \"+value+\".\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Subtitles using expression grel:if(isNonBlank(value), \"Sutitles: \"+value+\".\", \"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Sound Aspect(s)",
+    "expression": "grel:if((not(value.contains(\"Silent\"))), \"analog $$2 rdatr\", \"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "344 sound aspects",
+    "columnInsertIndex": 39,
+    "description": "Create column 344 sound aspects at index 39 based on column Sound Aspect(s) using expression grel:if((not(value.contains(\"Silent\"))), \"analog $$2 rdatr\", \"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Running Time {Length}",
+    "expression": "grel:\"000\"[0,3-value.length()] + value",
+    "onError": "set-to-blank",
+    "newColumnName": "008 running time",
+    "columnInsertIndex": 37,
+    "description": "Create column 008 running time at index 37 based on column Running Time {Length} using expression grel:\"000\"[0,3-value.length()] + value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Year of Release",
+    "expression": "grel:replace(value,\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Year of Release using expression grel:replace(value,\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Year of Release",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Year of Release using expression grel:value.trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Year of Release",
+    "expression": "grel:if((length(value) == 4),value,\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "008 year of release",
+    "columnInsertIndex": 44,
+    "description": "Create column 008 year of release at index 44 based on column Year of Release using expression grel:if((length(value) == 4),value,\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Subtitles",
+    "expression": "grel:replace(value,\"Sutitles\",\"Subtitles\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Subtitles using expression grel:replace(value,\"Sutitles\",\"Subtitles\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Reels",
+    "expression": "grel:if(isNonBlank(value), value+\" \", \"\")+\"film reels\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Reels using expression grel:if(isNonBlank(value), value+\" \", \"\")+\"film reels\""
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Running Time {Length}",
+    "expression": "grel:if(isNonBlank(value),value+\" minutes\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "300 runtime",
+    "columnInsertIndex": 37,
+    "description": "Create column 300 runtime at index 37 based on column Running Time {Length} using expression grel:if(isNonBlank(value),value+\" minutes\",\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Footage Length",
+    "expression": "grel:if(isNonBlank(value),value+\" feet\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "300 footage",
+    "columnInsertIndex": 14,
+    "description": "Create column 300 footage at index 14 based on column Footage Length using expression grel:if(isNonBlank(value),value+\" feet\",\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Reels",
+    "expression": "grel:value+\" (\"+cells[\"300 runtime\"].value+\", \"+cells[\"300 footage\"].value+\")\"",
+    "onError": "set-to-blank",
+    "newColumnName": "300 $a",
+    "columnInsertIndex": 37,
+    "description": "Create column 300 $a at index 37 based on column Reels using expression grel:value+\" (\"+cells[\"300 runtime\"].value+\", \"+cells[\"300 footage\"].value+\")\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 $a",
+    "expression": "grel:value.replace(\"(, )\",\"\").replace(\"(, \",\"(\").replace(\", )\",\")\").replace(\"1 film reels\",\"1 film reel\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 $a using expression grel:value.replace(\"(, )\",\"\").replace(\"(, \",\"(\").replace(\", )\",\")\").replace(\"1 film reels\",\"1 film reel\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "008 year of release",
+    "expression": "grel:\"sYEAR||||xx\\RUN\\|\\\\\\\\\\||\\\\\\muund|d\"",
+    "onError": "set-to-blank",
+    "newColumnName": "008",
+    "columnInsertIndex": 48,
+    "description": "Create column 008 at index 48 based on column 008 year of release using expression grel:\"sYEAR||||xx\\RUN\\|\\\\\\\\\\||\\\\\\muund|d\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008 year of release",
+    "expression": "grel:if(isBlank(value),\"19uu\",value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 year of release using expression grel:if(isBlank(value),\"19uu\",value)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008 running time",
+    "expression": "grel:if(isBlank(value),\"---\",value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 running time using expression grel:if(isBlank(value),\"---\",value)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008",
+    "expression": "grel:\"sYEAR####xx#RUN############muund#d\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 using expression grel:\"sYEAR####xx#RUN############muund#d\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008",
+    "expression": "grel:value.replace(\"YEAR\",cells[\"008 year of release\"].value).replace(\"RUN\",cells[\"008 running time\"].value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 using expression grel:value.replace(\"YEAR\",cells[\"008 year of release\"].value).replace(\"RUN\",cells[\"008 running time\"].value)"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://tools.wmflabs.org/openrefine-wikidata/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q5",
+        "name": "human"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Director to type Q5"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "HFA Time",
+    "expression": "grel:if((isNonBlank(value)),\"Harvard Film Archive running time: \"+value+\" minutes.\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column HFA Time using expression grel:if((isNonBlank(value)),\"Harvard Film Archive running time: \"+value+\" minutes.\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Item number",
+    "expression": "grel:\"(HFAfm)\"+value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Item number using expression grel:\"(HFAfm)\"+value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Collection Title",
+    "expression": "grel:if(isNonBlank(value),value+\". $5 hfa\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Collection Title using expression grel:if(isNonBlank(value),value+\". $5 hfa\",\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "344 sound aspects",
+    "expression": "grel:if((isNonBlank(value)),\"sound\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "300 b sound",
+    "columnInsertIndex": 44,
+    "description": "Create column 300 b sound at index 44 based on column 344 sound aspects using expression grel:if((isNonBlank(value)),\"sound\",\"\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "B/W-Color",
+    "expression": "grel:if((value.contains(\"olor\")),\"color\",\"black and white\")",
+    "onError": "set-to-blank",
+    "newColumnName": "300 b color",
+    "columnInsertIndex": 4,
+    "description": "Create column 300 b color at index 4 based on column B/W-Color using expression grel:if((value.contains(\"olor\")),\"color\",\"black and white\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "300 b sound",
+    "expression": "grel:if((isNonBlank(value)),value + \", \" + cells[\"300 b color\"].value,cells[\"300 b color\"].value)",
+    "onError": "set-to-blank",
+    "newColumnName": "300 $b",
+    "columnInsertIndex": 46,
+    "description": "Create column 300 $b at index 46 based on column 300 b sound using expression grel:if((isNonBlank(value)),value + \", \" + cells[\"300 b color\"].value,cells[\"300 b color\"].value)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Synopsis",
+    "expression": "grel:value.replace(\"\u000b\",\" \")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Synopsis using expression grel:value.replace(\"\u000b\",\" \")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Genre",
+    "expression": "grel:split(value,\"\u000b\")[0]",
+    "onError": "set-to-blank",
+    "newColumnName": "genre 1",
+    "columnInsertIndex": 18,
+    "description": "Create column genre 1 at index 18 based on column Genre using expression grel:split(value,\"\u000b\")[0]"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Genre",
+    "expression": "grel:split(value,\"\u000b\")[1]",
+    "onError": "set-to-blank",
+    "newColumnName": "genre 2",
+    "columnInsertIndex": 18,
+    "description": "Create column genre 2 at index 18 based on column Genre using expression grel:split(value,\"\u000b\")[1]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 2",
+    "index": 19,
+    "description": "Move column genre 2 to position 19"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Genre",
+    "expression": "grel:split(value,\"\u000b\")[2]",
+    "onError": "set-to-blank",
+    "newColumnName": "genre 3",
+    "columnInsertIndex": 18,
+    "description": "Create column genre 3 at index 18 based on column Genre using expression grel:split(value,\"\u000b\")[2]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 3",
+    "index": 19,
+    "description": "Move column genre 3 to position 19"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 3",
+    "index": 20,
+    "description": "Move column genre 3 to position 20"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Genre",
+    "expression": "grel:split(value,\"\u000b\")[3]",
+    "onError": "set-to-blank",
+    "newColumnName": "genre 4",
+    "columnInsertIndex": 18,
+    "description": "Create column genre 4 at index 18 based on column Genre using expression grel:split(value,\"\u000b\")[3]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 4",
+    "index": 19,
+    "description": "Move column genre 4 to position 19"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 4",
+    "index": 20,
+    "description": "Move column genre 4 to position 20"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 4",
+    "index": 21,
+    "description": "Move column genre 4 to position 21"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Genre",
+    "expression": "grel:split(value,\"\u000b\")[4]",
+    "onError": "set-to-blank",
+    "newColumnName": "genre 5",
+    "columnInsertIndex": 18,
+    "description": "Create column genre 5 at index 18 based on column Genre using expression grel:split(value,\"\u000b\")[4]"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 5",
+    "index": 19,
+    "description": "Move column genre 5 to position 19"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 5",
+    "index": 20,
+    "description": "Move column genre 5 to position 20"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 5",
+    "index": 21,
+    "description": "Move column genre 5 to position 21"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "genre 5",
+    "index": 22,
+    "description": "Move column genre 5 to position 22"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Language",
+    "expression": "grel:if((isNonBlank(value)),value+\".\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Language using expression grel:if((isNonBlank(value)),value+\".\",\"\")"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Also known as Title",
+    "newColumnName": "246",
+    "description": "Rename column Also known as Title to 246"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Alternate Title",
+    "newColumnName": "246 (2)",
+    "description": "Rename column Alternate Title to 246 (2)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Aspect Ratio",
+    "newColumnName": "500 aspect ratio",
+    "description": "Rename column Aspect Ratio to 500 aspect ratio"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Collection Title",
+    "newColumnName": "740 00",
+    "description": "Rename column Collection Title to 740 00"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Country",
+    "newColumnName": "257",
+    "description": "Rename column Country to 257"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "DP/Cinematographer",
+    "newColumnName": "508 dp",
+    "description": "Rename column DP/Cinematographer to 508 dp"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Edition statement",
+    "expression": "grel:if((isBlank(value)),\"[Version held at Harvard Film Archive.]\",value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Edition statement using expression grel:if((isBlank(value)),\"[Version held at Harvard Film Archive.]\",value)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Edition statement",
+    "newColumnName": "250",
+    "description": "Rename column Edition statement to 250"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Editor",
+    "newColumnName": "508 editor",
+    "description": "Rename column Editor to 508 editor"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Element",
+    "newColumnName": "500 element",
+    "description": "Rename column Element to 500 element"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "genre 1",
+    "newColumnName": "655 _4",
+    "description": "Rename column genre 1 to 655 _4"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "HFA Format(s)",
+    "newColumnName": "300 $c",
+    "description": "Rename column HFA Format(s) to 300 $c"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "HFA Time",
+    "newColumnName": "500 hfatime",
+    "description": "Rename column HFA Time to 500 hfatime"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Item number",
+    "newColumnName": "035",
+    "description": "Rename column Item number to 035"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Language",
+    "newColumnName": "546 lang",
+    "description": "Rename column Language to 546 lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Music",
+    "newColumnName": "508 music",
+    "description": "Rename column Music to 508 music"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "245 title with prefix",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 245 title with prefix using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Principal Cast",
+    "newColumnName": "511 1_",
+    "description": "Rename column Principal Cast to 511 1_"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Producer",
+    "newColumnName": "508 producer",
+    "description": "Rename column Producer to 508 producer"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Production Company",
+    "newColumnName": "264 _2 $b",
+    "description": "Rename column Production Company to 264 _2 $b"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Script",
+    "newColumnName": "508 script",
+    "description": "Rename column Script to 508 script"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Synopsis",
+    "newColumnName": "520",
+    "description": "Rename column Synopsis to 520"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Year of Release",
+    "newColumnName": "264 _2 $c",
+    "description": "Rename column Year of Release to 264 _2 $c"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "246",
+    "newColumnName": "246 13",
+    "description": "Rename column 246 to 246 13"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "246 (2)",
+    "newColumnName": "246 13 (2)",
+    "description": "Rename column 246 (2) to 246 13 (2)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "257",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 257 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "257",
+    "expression": "grel:if((isNonBlank(value)),value+\".\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 257 using expression grel:if((isNonBlank(value)),value+\".\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "344 sound aspects",
+    "expression": "grel:value.replace(\"$$\",\"$\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 344 sound aspects using expression grel:value.replace(\"$$\",\"$\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Director",
+    "expression": "grel:value.match(/(.*) (.*)/).reverse().join(\", \")",
+    "onError": "keep-original",
+    "newColumnName": "Director inverted",
+    "columnInsertIndex": 9,
+    "description": "Create column Director inverted at index 9 based on column Director using expression grel:value.match(/(.*) (.*)/).reverse().join(\", \")"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director inverted",
+    "config": {
+      "mode": "standard-service",
+      "service": "http://localhost:5000/",
+      "identifierSpace": "http://localhost/identifier",
+      "schemaSpace": "http://localhost/schema",
+      "type": {
+        "id": "Names",
+        "name": "Names"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Director inverted to type Names"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008",
+    "expression": "grel:value.replace(\"#\",\"\\\\\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 using expression grel:value.replace(\"#\",\"\\\\\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008",
+    "expression": "grel:(now().toDate().toString('YYMMDD'))+value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 using expression grel:(now().toDate().toString('YYMMDD'))+value"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director inverted",
+    "similarValue": "Lumet, Sidney",
+    "judgment": "matched",
+    "match": {
+      "id": "http://id.loc.gov/authorities/names/n79011000",
+      "name": "Lumet, Sidney, 1924-2011",
+      "types": [
+        "Names"
+      ],
+      "score": 71
+    },
+    "shareNewTopics": false,
+    "description": "Match item Lumet, Sidney, 1924-2011 (http://id.loc.gov/authorities/names/n79011000) for cells containing \"Lumet, Sidney\" in column Director inverted"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Clint Eastwood",
+    "judgment": "matched",
+    "match": {
+      "id": "Q43203",
+      "name": "Clint Eastwood",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Clint Eastwood (Q43203) for cells containing \"Clint Eastwood\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Terry Gilliam",
+    "judgment": "matched",
+    "match": {
+      "id": "Q25078",
+      "name": "Terry Gilliam",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Terry Gilliam (Q25078) for cells containing \"Terry Gilliam\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Michael Mann",
+    "judgment": "matched",
+    "match": {
+      "id": "Q270097",
+      "name": "Michael Mann",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Michael Mann (Q270097) for cells containing \"Michael Mann\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Charles Barton",
+    "judgment": "matched",
+    "match": {
+      "id": "Q769200",
+      "name": "Charles Barton",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Charles Barton (Q769200) for cells containing \"Charles Barton\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Paul Morrissey",
+    "judgment": "matched",
+    "match": {
+      "id": "Q383764",
+      "name": "Paul Morrissey",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Paul Morrissey (Q383764) for cells containing \"Paul Morrissey\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Richard Pearce",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3431106",
+      "name": "Richard Pearce",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Richard Pearce (Q3431106) for cells containing \"Richard Pearce\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Alfred Hitchcock",
+    "judgment": "matched",
+    "match": {
+      "id": "Q7374",
+      "name": "Alfred Hitchcock",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Alfred Hitchcock (Q7374) for cells containing \"Alfred Hitchcock\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "John Carpenter",
+    "judgment": "matched",
+    "match": {
+      "id": "Q95008",
+      "name": "John Carpenter",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item John Carpenter (Q95008) for cells containing \"John Carpenter\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Laurence Olivier",
+    "judgment": "matched",
+    "match": {
+      "id": "Q55245",
+      "name": "Laurence Olivier",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Laurence Olivier (Q55245) for cells containing \"Laurence Olivier\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "John Huston ",
+    "judgment": "matched",
+    "match": {
+      "id": "Q51575",
+      "name": "John Huston",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item John Huston (Q51575) for cells containing \"John Huston \" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Mike Nichols",
+    "judgment": "matched",
+    "match": {
+      "id": "Q51537",
+      "name": "Mike Nichols",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Mike Nichols (Q51537) for cells containing \"Mike Nichols\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Terence Young",
+    "judgment": "matched",
+    "match": {
+      "id": "Q314882",
+      "name": "Terence Young",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Terence Young (Q314882) for cells containing \"Terence Young\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "John Landis",
+    "judgment": "matched",
+    "match": {
+      "id": "Q51564",
+      "name": "John Landis",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item John Landis (Q51564) for cells containing \"John Landis\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Robert M. Young",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1748118",
+      "name": "Robert Milton Young",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Robert Milton Young (Q1748118) for cells containing \"Robert M. Young\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Robin Hardy",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3437083",
+      "name": "Robin Hardy",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Robin Hardy (Q3437083) for cells containing \"Robin Hardy\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "John Flynn",
+    "judgment": "matched",
+    "match": {
+      "id": "Q726095",
+      "name": "John Flynn",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item John Flynn (Q726095) for cells containing \"John Flynn\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Robert Altman",
+    "judgment": "matched",
+    "match": {
+      "id": "Q55163",
+      "name": "Robert Altman",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Robert Altman (Q55163) for cells containing \"Robert Altman\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Charles Chaplin",
+    "judgment": "matched",
+    "match": {
+      "id": "Q882",
+      "name": "Charlie Chaplin",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Charlie Chaplin (Q882) for cells containing \"Charles Chaplin\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "John Ford",
+    "judgment": "matched",
+    "match": {
+      "id": "Q51114",
+      "name": "John Ford",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item John Ford (Q51114) for cells containing \"John Ford\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Peter Timm",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2078677",
+      "name": "Peter Timm",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Peter Timm (Q2078677) for cells containing \"Peter Timm\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Gordon Douglas",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1479869",
+      "name": "Gordon Douglas",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Gordon Douglas (Q1479869) for cells containing \"Gordon Douglas\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Wango H C Weng",
+    "judgment": "matched",
+    "match": {
+      "id": "Q60008986",
+      "name": "Wan-go H.C. Weng",
+      "types": [
+        "Q5"
+      ],
+      "score": 83
+    },
+    "shareNewTopics": false,
+    "description": "Match item Wan-go H.C. Weng (Q60008986) for cells containing \"Wango H C Weng\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Joseph McGrath",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6285469",
+      "name": "Joseph McGrath",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Joseph McGrath (Q6285469) for cells containing \"Joseph McGrath\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Roland West",
+    "judgment": "matched",
+    "match": {
+      "id": "Q967502",
+      "name": "Roland West",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Roland West (Q967502) for cells containing \"Roland West\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Robert Beavers",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2156523",
+      "name": "Robert Beavers",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Robert Beavers (Q2156523) for cells containing \"Robert Beavers\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Chuck Jones",
+    "judgment": "matched",
+    "match": {
+      "id": "Q312657",
+      "name": "Chuck Jones",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Chuck Jones (Q312657) for cells containing \"Chuck Jones\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Jack King",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2053693",
+      "name": "Jack King",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Jack King (Q2053693) for cells containing \"Jack King\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Henry King",
+    "judgment": "matched",
+    "match": {
+      "id": "Q269505",
+      "name": "Henry King",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Henry King (Q269505) for cells containing \"Henry King\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Werner Herzog",
+    "judgment": "matched",
+    "match": {
+      "id": "Q44131",
+      "name": "Werner Herzog",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Werner Herzog (Q44131) for cells containing \"Werner Herzog\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Joe May",
+    "judgment": "matched",
+    "match": {
+      "id": "Q85134",
+      "name": "Joe May",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Joe May (Q85134) for cells containing \"Joe May\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "James Nelson",
+    "judgment": "matched",
+    "match": {
+      "id": "Q17370723",
+      "name": "James Nelson",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item James Nelson (Q17370723) for cells containing \"James Nelson\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "George Sidney",
+    "judgment": "matched",
+    "match": {
+      "id": "Q630981",
+      "name": "George Sidney",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item George Sidney (Q630981) for cells containing \"George Sidney\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "John Rawlins",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3182344",
+      "name": "John Rawlins",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item John Rawlins (Q3182344) for cells containing \"John Rawlins\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Ralph Murphy",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3418290",
+      "name": "Ralph Murphy",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Ralph Murphy (Q3418290) for cells containing \"Ralph Murphy\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "James Neilson",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1647147",
+      "name": "James Neilson",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item James Neilson (Q1647147) for cells containing \"James Neilson\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "William Watson",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3569019",
+      "name": "William Watson",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item William Watson (Q3569019) for cells containing \"William Watson\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "David Hand",
+    "judgment": "matched",
+    "match": {
+      "id": "Q928976",
+      "name": "David Hand",
+      "types": [
+        "Q5"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item David Hand (Q928976) for cells containing \"David Hand\" in column Director"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "similarValue": "Dominga Sotomayor",
+    "judgment": "matched",
+    "match": {
+      "id": "Q18008977",
+      "name": "Dominga Sotomayor Castillo",
+      "types": [
+        "Q5"
+      ],
+      "score": 94
+    },
+    "shareNewTopics": false,
+    "description": "Match item Dominga Sotomayor Castillo (Q18008977) for cells containing \"Dominga Sotomayor\" in column Director"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Director",
+    "expression": "grel:cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "Director Wikidata id",
+    "columnInsertIndex": 9,
+    "description": "Create column Director Wikidata id at index 9 based on column Director using expression grel:cell.recon.match.id"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director Wikidata id",
+    "expression": "grel:\"https://www.wikidata.org/wiki/\"+value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director Wikidata id using expression grel:\"https://www.wikidata.org/wiki/\"+value"
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Director Wikidata id",
+    "urlExpression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Director URLs",
+    "columnInsertIndex": 10,
+    "delay": 5000,
+    "cacheResponses": true,
+    "httpHeadersJson": [
+      {
+        "name": "authorization",
+        "value": ""
+      },
+      {
+        "name": "user-agent",
+        "value": "OpenRefine 3.2 [55c921b]"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      }
+    ],
+    "description": "Create column Director URLs at index 10 by fetching URLs based on column Director Wikidata id using expression grel:value"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Director",
+    "expression": "grel:\"https://www.wikidata.org/wiki/Special:EntityData/\"+cell.recon.match.id+\".rdf\"",
+    "onError": "set-to-blank",
+    "newColumnName": "Director RDF",
+    "columnInsertIndex": 9,
+    "description": "Create column Director RDF at index 9 based on column Director using expression grel:\"https://www.wikidata.org/wiki/Special:EntityData/\"+cell.recon.match.id+\".rdf\""
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Director URLs",
+    "description": "Remove column Director URLs"
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Director RDF",
+    "urlExpression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Director RDF URLs",
+    "columnInsertIndex": 10,
+    "delay": 5000,
+    "cacheResponses": true,
+    "httpHeadersJson": [
+      {
+        "name": "authorization",
+        "value": ""
+      },
+      {
+        "name": "user-agent",
+        "value": "OpenRefine 3.2 [55c921b]"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      }
+    ],
+    "description": "Create column Director RDF URLs at index 10 by fetching URLs based on column Director RDF using expression grel:value"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Director RDF URLs",
+    "description": "Remove column Director RDF URLs"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Director",
+    "expression": "grel:if(isNonBlank(value),\"Director of film: \"+value+\".\",null)",
+    "onError": "set-to-blank",
+    "newColumnName": "508 director",
+    "columnInsertIndex": 9,
+    "description": "Create column 508 director at index 9 based on column Director using expression grel:if(isNonBlank(value),\"Director of film: \"+value+\".\",null)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Genre",
+    "expression": "grel:value.replace(\"\u000b\",\"|\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Genre using expression grel:value.replace(\"\u000b\",\"|\")"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "655 _4",
+    "newColumnName": "655 (1)",
+    "description": "Rename column 655 _4 to 655 (1)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "genre 2",
+    "newColumnName": "655 (2)",
+    "description": "Rename column genre 2 to 655 (2)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "genre 3",
+    "newColumnName": "655 (3)",
+    "description": "Rename column genre 3 to 655 (3)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "genre 4",
+    "newColumnName": "655 (4)",
+    "description": "Rename column genre 4 to 655 (4)"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "genre 5",
+    "newColumnName": "655 (5)",
+    "description": "Rename column genre 5 to 655 (5)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (1)",
+    "expression": "grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (1) using expression grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (2)",
+    "expression": "grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (2) using expression grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (3)",
+    "expression": "grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (3) using expression grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (4)",
+    "expression": "grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (4) using expression grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (5)",
+    "expression": "grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (5) using expression grel:if (value==\"Action\",\"Action and adventure films.$2lcgft\",\nif (value==\"Adaptations\",\"Film adaptations.$2lcgft\",\nif (value==\"Adventure\",\"Action and adventure films.$2lcgft\",\nif (value==\"Advertisement\",\"Promotional films.$2lcgft\",\nif (value==\"Amateur\",\"Amateur films.$2lcgft\",\nif (value==\"Animation feature\",\"Animated films.$2lcgft\",\nif (value==\"Animation short\",\"Animated films.$2lcgft\",\nif (value==\"Animation\",\"Animated films.$2lcgft\",\nif (value==\"Anti-war\",\"War films.$2lcgft\",\nif (value==\"Autobiographical\",\"Autobiographical films.$2lcgft\",\nif (value==\"Avant garde\",\"Experimental films.$2lcgft\",\nif (value==\"Biographical\",\"Biographical films.$2lcgft\",\nif (value==\"Cameraless\",\"Cameraless animation films.$2lcgft\",\nif (value==\"Character Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Children's\",\"Children's films.$2lcgft\",\nif (value==\"Comedy drama\",\"Comedy films.$2lcgft\",\nif (value==\"Comedy\",\"Comedy films.$2lcgft\",\nif (value==\"Crime\",\"Crime films.$2lcgft\",\nif (value==\"Dance\",\"Dance films.$2lcgft\",\nif (value==\"Detective and mystery\",\"Detective and mystery films.$2lcgft\",\nif (value==\"Documentary\",\"Documentary films.$2lcgft\",\nif (value==\"Drama fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Drama\",\"Fiction films.$2lcgft\",\nif (value==\"Educational\",\"Educational films.$2lcgft\",\nif (value==\"Erotica\",\"Erotic films.$2lcgft\",\nif (value==\"Essay\",\"Social problem films.$2lcgft\",\nif (value==\"Ethnographic\",\"Ethnographic films.$2lcgft\",\nif (value==\"Excerpt\",\"Film excerpts.$2lcgft\",\nif (value==\"Experimental feature\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental short\",\"Experimental films.$2lcgft\",\nif (value==\"Experimental\",\"Experimental films.$2lcgft\",\nif (value==\"Exploitation\",\"Exploitation films.$2lcgft\",\nif (value==\"Fantasy\",\"Fantasy films.$2lcgft\",\nif (value==\"Feature\",\"Feature films.$2lcgft\",\nif (value==\"Feminist\",\"(deleted).$2lcgft\",\nif (value==\"Fiction feature\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction short\",\"Fiction films.$2lcgft\",\nif (value==\"Fiction\",\"Fiction films.$2lcgft\",\nif (value==\"Film Excerpts\",\"Film excerpts.$2lcgft\",\nif (value==\"Film noir\",\"Fim noir.$2lcgft\",\nif (value==\"Historical Comedy Adventure\",\"Historical films.$2lcgft\",\nif (value==\"Historical drama\",\"Historical films.$2lcgft\",\nif (value==\"Home movie\",\"Amateur films.$2lcgft\",\nif (value==\"Horror\",\"Horror films.$2lcgft\",\nif (value==\"Independent\",\"Independent films.$2lcgft\",\nif (value==\"Industrial\",\"Industrial films.$2lcgft\",\nif (value==\"Instructional\",\"Instructional films.$2lcgft\",\nif (value==\"Kinescope\",\"Kinescope films.$2lcgft\",\nif (value==\"Martial arts\",\"Martial arts films.$2lcgft\",\nif (value==\"Medical (non-fiction)\",\"Medical films (Motion pictures).$2lcgft\",\nif (value==\"Melodrama\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Melodramas\",\"Melodramas (Motion pictures).$2lcgft\",\nif (value==\"Music video\",\"Music videos.$2lcgft\",\nif (value==\"Musical\",\"Musical films.$2lcgft\",\nif (value==\"Newsreel\",\"Newsreels.$2lcgft\",\nif (value==\"Non fiction\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction feature\",\"Nonfiction films.$2lcgft\",\nif (value==\"Nonfiction short\",\"Nonfiction films.$2lcgft\",\nif (value==\"Outtakes\",\"Outtakes.$2lcgft\",\nif (value==\"Pornography\",\"Pornographic films.$2lcgft\",\nif (value==\"Propaganda\",\"Propaganda films.$2lcgft\",\nif (value==\"Romance\",\"Romance films.$2lcgft\",\nif (value==\"Science fiction\",\"Science fiction films.$2lcgft\",\nif (value==\"Science\",\"Science films.$2lcgft\",\nif (value==\"Serial\",\"Film serials.$2lcgft\",\nif (value==\"Short\",\"Short films.$2lcgft\",\nif (value==\"Silent films\",\"Silent films.$2lcgft\",\nif (value==\"Snipe\",\"Theater announcements (Motion pictures).$2lcgft\",\nif (value==\"Social critique\",\"Social problem films.$2lcgft\",\nif (value==\"Social guidance\",\"Social guidance films.$2lcgft\",\nif (value==\"Sponsored\",\"Sponsored films.$2lcgft\",\nif (value==\"Sports\",\"Sports films.$2lcgft\",\nif (value==\"Surreal\",\"Surrealist films.$2lcgft\",\nif (value==\"Surrealist films\",\"Surrealist films.$2lcgft\",\nif (value==\"Suspense\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Thriller\",\"Thrillers (Motion pictures).$2lcgft\",\nif (value==\"Trailer\",\"Film trailers.$2lcgft\",\nif (value==\"Travelogues\",\"Travelogues (Motion pictures).$2lcgft\",\nif (value==\"War film\",\"War films.$2lcgft\",\nif (value==\"Western\",\"Western films.$2lcgft\",    \nnull))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "246 13 (2)",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 246 13 (2) using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "500 aspect ratio",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 500 aspect ratio using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 b color",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 b color using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "740 00",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 740 00 using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "257",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 257 using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "246 13",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 246 13 using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 director",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 director using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Date of record creation",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date of record creation using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "B/W-Color",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column B/W-Color using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director 2",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director 2 using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director inverted",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director inverted using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 dp",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 dp using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director Wikidata id",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director Wikidata id using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Footage Length",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Footage Length using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "500 element",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 500 element using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 editor",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 editor using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "250",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 250 using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director RDF",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director RDF using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (2)",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (2) using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (1)",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (1) using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Genre",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Genre using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Format type",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Format type using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 footage",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 footage using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "500 hfatime",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 500 hfatime using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 $c",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 $c using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (5)",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (5) using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (4)",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (4) using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (3)",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (3) using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 music",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 music using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "LOC Authority Subject Headings",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column LOC Authority Subject Headings using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "546 lang",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 546 lang using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "035",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 035 using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Hollis Record?",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Hollis Record? using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Filing indicators",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Filing indicators using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "245 title with prefix",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 245 title with prefix using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "prefix",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column prefix using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Original Titles",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Original Titles using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Needs new HOLLIS update",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Needs new HOLLIS update using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record - not for HOLLIS export",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record - not for HOLLIS export using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record  not for HOLLIS export",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record  not for HOLLIS export using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record  for HOLLIS export",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record  for HOLLIS export using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "511 1_",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 511 1_ using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "preliminary Aleph record",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column preliminary Aleph record using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Running Time {Length}",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Running Time {Length} using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 $a",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 $a using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Reels",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Reels using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "264 _2 $b",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 264 _2 $b using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 producer",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 producer using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "344 sound aspects",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 344 sound aspects using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sound Aspect(s)",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sound Aspect(s) using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 script",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 script using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008 running time",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 running time using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 runtime",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 runtime using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "264 _2 $c",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 264 _2 $c using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "520",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 520 using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Subtitles",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Subtitles using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 $b",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 $b using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 b sound",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 b sound using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008 year of release",
+    "expression": "grel:value.replace(\"\u000b\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 year of release using expression grel:value.replace(\"\u000b\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "246 13",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 246 13 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "500 aspect ratio",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 500 aspect ratio using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 b color",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 b color using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "246 13 (2)",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 246 13 (2) using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "740 00",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 740 00 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 director",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 director using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Date of record creation",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date of record creation using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "257",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 257 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director 2",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director 2 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director inverted",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director inverted using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director Wikidata id",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director Wikidata id using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Director RDF",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Director RDF using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "B/W-Color",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column B/W-Color using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 editor",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 editor using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "250",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 250 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 dp",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 dp using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Genre",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Genre using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Format type",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Format type using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 footage",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 footage using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Footage Length",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Footage Length using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "500 element",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 500 element using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (5)",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (5) using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (4)",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (4) using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (3)",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (3) using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (2)",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (2) using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "655 (1)",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 655 (1) using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "546 lang",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 546 lang using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "035",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 035 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Hollis Record?",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Hollis Record? using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "500 hfatime",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 500 hfatime using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 $c",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 $c using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "prefix",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column prefix using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Original Titles",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Original Titles using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Needs new HOLLIS update",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Needs new HOLLIS update using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 music",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 music using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "LOC Authority Subject Headings",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column LOC Authority Subject Headings using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record  for HOLLIS export",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record  for HOLLIS export using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "511 1_",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 511 1_ using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "preliminary Aleph record",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column preliminary Aleph record using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Filing indicators",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Filing indicators using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "245 title with prefix",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 245 title with prefix using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Reels",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Reels using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "264 _2 $b",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 264 _2 $b using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 producer",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 producer using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record - not for HOLLIS export",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record - not for HOLLIS export using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Problem with record  not for HOLLIS export",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Problem with record  not for HOLLIS export using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "508 script",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 508 script using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008 running time",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 running time using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 runtime",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 runtime using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Running Time {Length}",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Running Time {Length} using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 $a",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 $a using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Subtitles",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Subtitles using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 $b",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 $b using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "300 b sound",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 300 b sound using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "344 sound aspects",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 344 sound aspects using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sound Aspect(s)",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sound Aspect(s) using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "008 year of release",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 008 year of release using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "264 _2 $c",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 264 _2 $c using expression grel:value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "520",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column 520 using expression grel:value.trim()"
+  },
+  {
+    "op": "core/column-reorder",
+    "columnNames": [
+      "008",
+      "035",
+      "245 title with prefix",
+      "246 13",
+      "246 13 (2)",
+      "250",
+      "257",
+      "264 _2 $c",
+      "264 _2 $b",
+      "344 sound aspects",
+      "300 $a",
+      "300 $b",
+      "300 $c",
+      "500 aspect ratio",
+      "500 hfatime",
+      "500 element",
+      "508 director",
+      "508 editor",
+      "508 script",
+      "508 producer",
+      "508 music",
+      "508 dp",
+      "511 1_",
+      "520",
+      "546 lang",
+      "655 (1)",
+      "655 (2)",
+      "655 (3)",
+      "655 (4)",
+      "655 (5)",
+      "740 00",
+      "B/W-Color",
+      "300 b color",
+      "Date of record creation",
+      "Director",
+      "Director RDF",
+      "Director Wikidata id",
+      "Director inverted",
+      "Director 2",
+      "Footage Length",
+      "300 footage",
+      "Format type",
+      "Genre",
+      "Hollis Record?",
+      "LOC Authority Subject Headings",
+      "Needs new HOLLIS update",
+      "Original Titles",
+      "prefix",
+      "Filing indicators",
+      "preliminary Aleph record",
+      "Problem with record  for HOLLIS export",
+      "Problem with record  not for HOLLIS export",
+      "Problem with record - not for HOLLIS export",
+      "Reels",
+      "Running Time {Length}",
+      "300 runtime",
+      "008 running time",
+      "Sound Aspect(s)",
+      "300 b sound",
+      "Subtitles",
+      "008 year of release"
+    ],
+    "description": "Reorder columns"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Subtitles",
+    "newColumnName": "546 subtitles",
+    "description": "Rename column Subtitles to 546 subtitles"
+  },
+  {
+    "op": "core/column-reorder",
+    "columnNames": [
+      "008",
+      "035",
+      "245 title with prefix",
+      "246 13",
+      "246 13 (2)",
+      "250",
+      "257",
+      "264 _2 $c",
+      "264 _2 $b",
+      "344 sound aspects",
+      "300 $a",
+      "300 $b",
+      "300 $c",
+      "500 aspect ratio",
+      "500 hfatime",
+      "500 element",
+      "508 director",
+      "508 editor",
+      "508 script",
+      "508 producer",
+      "508 music",
+      "508 dp",
+      "511 1_",
+      "520",
+      "546 lang",
+      "546 subtitles",
+      "655 (1)",
+      "655 (2)",
+      "655 (3)",
+      "655 (4)",
+      "655 (5)",
+      "740 00",
+      "B/W-Color",
+      "300 b color",
+      "Date of record creation",
+      "Director",
+      "Director RDF",
+      "Director Wikidata id",
+      "Director inverted",
+      "Director 2",
+      "Footage Length",
+      "300 footage",
+      "Format type",
+      "Genre",
+      "Hollis Record?",
+      "LOC Authority Subject Headings",
+      "Needs new HOLLIS update",
+      "Original Titles",
+      "prefix",
+      "Filing indicators",
+      "preliminary Aleph record",
+      "Problem with record  for HOLLIS export",
+      "Problem with record  not for HOLLIS export",
+      "Problem with record - not for HOLLIS export",
+      "Reels",
+      "Running Time {Length}",
+      "300 runtime",
+      "008 running time",
+      "Sound Aspect(s)",
+      "300 b sound",
+      "008 year of release"
+    ],
+    "description": "Reorder columns"
+  }
+]
