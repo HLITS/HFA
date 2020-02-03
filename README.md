@@ -1,2 +1,2 @@
 # HFA
-GREL text transformations, MarcEdit templates, and sundry other documents related to the Harvard Film Archive records conversion project.
+GREL text transformations, MarcEdit templates, and possibly other things related to the Harvard Film Archive records conversion project.
