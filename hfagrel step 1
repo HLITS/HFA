@@ -2102,5 +2102,18 @@
     "newColumnName": "040",
     "columnInsertIndex": 2,
     "description": "Create column 040 at index 2 based on column 035 using expression grel:\"HFA$beng$erda$cHFA\""
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Year of Release",
+    "expression": "grel:if(isNonBlank(value),value+\".\",value)",
+    "onError": "set-to-blank",
+    "newColumnName": "264 _2 $c",
+    "columnInsertIndex": 74,
+    "description": "Create column 264 _2 $c at index 74 based on column Year of Release using expression grel:if(isNonBlank(value),value+\".\",value)"
   }
 ]
