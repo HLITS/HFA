@@ -65,6 +65,19 @@
     "description": "Text transform on cells in column 008 using expression grel:(now().toDate(value).toString('YYMMdd'))+value"
   },
   {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Item number",
+    "expression": "grel:\"HFA Item no. \"+toNumber(value)",
+    "onError": "set-to-blank",
+    "newColumnName": "980",
+    "columnInsertIndex": 58,
+    "description": "Create column 980 at index 58 based on column Item number using expression grel:\"HFA Item no. \"+toNumber(value)"
+  },
+  {
     "op": "core/column-reorder",
     "columnNames": [
       "008",
@@ -104,6 +117,7 @@
       "655 _7 (4)",
       "655 _7 (5)",
       "740",
+      "980",
       "Aspect Ratio",
       "B/W-Color",
       "Collection Title",
