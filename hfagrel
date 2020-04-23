@@ -1982,11 +1982,11 @@
       "mode": "record-based"
     },
     "baseColumnName": "Director",
-    "expression": "grel:if(isNonBlank(value),\"Director of film, \"+value+\".\",value)",
+    "expression": "grel:if(isNonBlank(value),\"Director: \"+value+\".\",value)",
     "onError": "set-to-blank",
     "newColumnName": "508 (director)",
     "columnInsertIndex": 9,
-    "description": "Create column 508 (director) at index 9 based on column Director using expression grel:if(isNonBlank(value),\"Director of film, \"+value+\".\",value)"
+    "description": "Create column 508 (director) at index 9 based on column Director using expression grel:if(isNonBlank(value),\"Director: \"+value+\".\",value)"
   },
   {
     "op": "core/column-addition",
@@ -1995,11 +1995,11 @@
       "mode": "record-based"
     },
     "baseColumnName": "Director 2",
-    "expression": "grel:if(isNonBlank(value),\"Director of film, \"+value+\".\",value)",
+    "expression": "grel:if(isNonBlank(value),\"Director: \"+value+\".\",value)",
     "onError": "set-to-blank",
     "newColumnName": "508 (director 2)",
     "columnInsertIndex": 11,
-    "description": "Create column 508 (director 2) at index 11 based on column Director 2 using expression grel:if(isNonBlank(value),\"Director of film, \"+value+\".\",value)"
+    "description": "Create column 508 (director 2) at index 11 based on column Director 2 using expression grel:if(isNonBlank(value),\"Director: \"+value+\".\",value)"
   },
   {
     "op": "core/column-addition",
@@ -2008,11 +2008,11 @@
       "mode": "record-based"
     },
     "baseColumnName": "DP/Cinematographer",
-    "expression": "grel:if(isNonBlank(value),\"Director of photography, \"+value+\".\",value)",
+    "expression": "grel:if(isNonBlank(value),\"Director of photography: \"+value+\".\",value)",
     "onError": "set-to-blank",
     "newColumnName": "508 (DP)",
     "columnInsertIndex": 13,
-    "description": "Create column 508 (DP) at index 13 based on column DP/Cinematographer using expression grel:if(isNonBlank(value),\"Director of photography, \"+value+\".\",value)"
+    "description": "Create column 508 (DP) at index 13 based on column DP/Cinematographer using expression grel:if(isNonBlank(value),\"Director of photography: \"+value+\".\",value)"
   },
   {
     "op": "core/column-addition",
@@ -2021,11 +2021,11 @@
       "mode": "record-based"
     },
     "baseColumnName": "Editor",
-    "expression": "grel:if(isNonBlank(value),\"Editor, \"+value+\".\",value)",
+    "expression": "grel:if(isNonBlank(value),\"Editor: \"+value+\".\",value)",
     "onError": "set-to-blank",
     "newColumnName": "508 (editor)",
     "columnInsertIndex": 16,
-    "description": "Create column 508 (editor) at index 16 based on column Editor using expression grel:if(isNonBlank(value),\"Editor, \"+value+\".\",value)"
+    "description": "Create column 508 (editor) at index 16 based on column Editor using expression grel:if(isNonBlank(value),\"Editor: \"+value+\".\",value)"
   },
   {
     "op": "core/column-addition",
@@ -2047,11 +2047,11 @@
       "mode": "record-based"
     },
     "baseColumnName": "Music",
-    "expression": "grel:if(isNonBlank(value),\"Music score, \"+value+\".\",value)",
+    "expression": "grel:if(isNonBlank(value),\"Music score: \"+value+\".\",value)",
     "onError": "set-to-blank",
     "newColumnName": "508 (music)",
     "columnInsertIndex": 29,
-    "description": "Create column 508 (music) at index 29 based on column Music using expression grel:if(isNonBlank(value),\"Music score, \"+value+\".\",value)"
+    "description": "Create column 508 (music) at index 29 based on column Music using expression grel:if(isNonBlank(value),\"Music score: \"+value+\".\",value)"
   },
   {
     "op": "core/column-addition",
@@ -2060,11 +2060,11 @@
       "mode": "record-based"
     },
     "baseColumnName": "Producer",
-    "expression": "grel:if(isNonBlank(value),\"Producer, \"+value+\".\",value)",
+    "expression": "grel:if(isNonBlank(value),\"Producer: \"+value+\".\",value)",
     "onError": "set-to-blank",
     "newColumnName": "508 (producer)",
     "columnInsertIndex": 40,
-    "description": "Create column 508 (producer) at index 40 based on column Producer using expression grel:if(isNonBlank(value),\"Producer, \"+value+\".\",value)"
+    "description": "Create column 508 (producer) at index 40 based on column Producer using expression grel:if(isNonBlank(value),\"Producer: \"+value+\".\",value)"
   },
   {
     "op": "core/column-addition",
@@ -2073,11 +2073,11 @@
       "mode": "record-based"
     },
     "baseColumnName": "Script",
-    "expression": "grel:if(isNonBlank(value),\"Screenwriter, \"+value+\".\",value)",
+    "expression": "grel:if(isNonBlank(value),\"Screenwriter: \"+value+\".\",value)",
     "onError": "set-to-blank",
     "newColumnName": "508 (script)",
     "columnInsertIndex": 45,
-    "description": "Create column 508 (script) at index 45 based on column Script using expression grel:if(isNonBlank(value),\"Screenwriter, \"+value+\".\",value)"
+    "description": "Create column 508 (script) at index 45 based on column Script using expression grel:if(isNonBlank(value),\"Screenwriter: \"+value+\".\",value)"
   },
   {
     "op": "core/column-addition",
@@ -2688,6 +2688,19 @@
     "columnInsertIndex": 58,
     "description": "Create column 980 at index 58 based on column Item number using expression grel:\"HFA Item no. \"+toNumber(value)"
   },
+ {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "980",
+    "expression": "grel:\"Please consult Harvard Film Archive for restrictions on use.\"",
+    "onError": "set-to-blank",
+    "newColumnName": "981",
+    "columnInsertIndex": 59,
+    "description": "Create column 981 at index 59 based on column 980 using expression grel:\"Please consult Harvard Film Archive for restrictions on use.\""
+  },
   {
     "op": "core/column-reorder",
     "columnNames": [
@@ -2729,6 +2742,7 @@
       "655 _7 (5)",
       "740",
       "980",
+      "981",
       "Aspect Ratio",
       "B/W-Color",
       "Collection Title",
