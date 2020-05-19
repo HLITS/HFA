@@ -2688,7 +2688,7 @@
     "columnInsertIndex": 58,
     "description": "Create column 980 at index 58 based on column Item number using expression grel:\"HFA Item no. \"+toNumber(value)"
   },
- {
+  {
     "op": "core/column-addition",
     "engineConfig": {
       "facets": [],
@@ -2702,8 +2702,35 @@
     "description": "Create column 981 at index 59 based on column 980 using expression grel:\"Please consult Harvard Film Archive for restrictions on use.\""
   },
   {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "008",
+    "expression": "grel:\"00000ngm  2200000Ki 4500\"",
+    "onError": "set-to-blank",
+    "newColumnName": "LDR",
+    "columnInsertIndex": 55,
+    "description": "Create column LDR at index 55 based on column 008 using expression grel:\"00000ngm  2200000Ki 4500\""
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "655 _7 (1)",
+    "expression": "grel:\"Motion pictures.$2lcgft\"",
+    "onError": "set-to-blank",
+    "newColumnName": "655 _7 (0)",
+    "columnInsertIndex": 31,
+    "description": "Create column 655 _7 (0) at index 31 based on column 655 _7 (1) using expression grel:\"Motion pictures.$2lcgft\""
+  },
+  {
     "op": "core/column-reorder",
     "columnNames": [
+      "LDR",
       "008",
       "035",
       "040",
@@ -2735,6 +2762,7 @@
       "520",
       "546 (language)",
       "546 (subtitles)",
+      "655 _7 (0)",
       "655 _7 (1)",
       "655 _7 (2)",
       "655 _7 (3)",
