@@ -6,7 +6,7 @@
       "mode": "record-based"
     },
     "columnName": "Genre",
-    "expression": "grel:value.replace(\"\u000b\",\"|\")",
+    "expression": "grel:value.replace(\"\u000b\",\"|\")", # replace invisible character u000b with vertical pipe
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10,
